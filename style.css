@@ -1,0 +1,319 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family: BrandonText-Medium,Arial,sans-serif;
+	
+}
+.tm-logo{
+	
+	position: relative;
+	display: block;
+	
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%;
+}
+.tm-section{
+	background-color:#d83230;
+
+
+
+}
+.tm-section1{
+
+	position: relative;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%;
+	padding: 10px 10px;
+
+
+
+}
+.tm-form{
+	
+	background-color: #ad2826;
+	width: 280px;
+	margin-top: 10px;
+	padding: 10px 15px 20px;
+
+
+}
+
+.tm-text1{
+	font-size: 20px;
+	color:white;
+}
+.tm-text5{
+	font-size: 36px;
+	color: white;
+}
+input[type="email"]{
+	border:1px solid #ccc;
+	font-size: 14px;
+	background-color: #fff793;
+	width: 280px;
+	height: 36px;
+	margin-right: auto;
+	
+}
+input[type="password"]{
+	border:1px solid #ccc;
+	font-size: 14px;
+	background-color: #fff793;
+	width: 280px;
+	height: 36px;
+	
+	
+}
+input[type="checkbox"]{
+	float: left;
+	height: 30px;
+	width: 30px;
+	border:1px solid white;
+
+}
+.tm-checkbox{
+	
+	margin-top: 10px;
+
+}
+.tm-text2{
+	display:block;
+	color: white;
+	font-size: 10px;
+	height: auto;
+	text-align: left;
+	
+
+}
+.tm-text3 {
+	background: #ef6b13;
+	color: white;
+	border:0px solid;
+	width: 280px;
+	height: auto;
+	margin-top: 15px;
+	text-align: center;
+	padding-top: 12.5px;
+	padding-bottom: 12.5px;
+}
+.tm-text3 a{
+	text-decoration: none;
+	margin-top: 10px;
+	font-size: 20px;
+	color: white;
+	
+}
+.tm-text4 a{
+	text-align: left;
+	color: white;
+	font-size: 10px;
+}
+.tm-part1{
+	display: block;
+	float: left;
+
+}
+
+.tm-part2{
+	display:block;
+	margin-top: 50px;
+	max-width: 670px;
+	margin-left: 20px;
+}	
+	
+	
+	
+
+.tm-part3{
+	display: inline-block;
+	
+}
+
+
+
+
+
+.tm-box1{
+	background-color:#ad2826;
+	text-align: center;
+	display: inline-block;
+	padding-top:50px; 
+	
+	margin-right: 10px; 
+}
+.tm-account{
+	text-decoration: none;
+	color: white;
+	background-color: #3FB0EB;
+	height: 45px;
+	line-height: 45px;
+	width: 270px;
+	margin: 15px 25px 30px;
+}
+.tm-account a{
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+}
+.tm-text6{
+	 font-size: 24px;
+    text-transform: uppercase;
+    line-height: 40px;
+    text-align: center;
+    color: white;
+}
+.tm-account2{
+	text-decoration: none;
+	color: white;
+	background-color: #ef6b13;
+	height: 45px;
+	line-height: 45px;
+	width: 270px;
+	margin: 15px 25px 30px;	
+}
+.tm-account2 a{
+	text-decoration: none;
+	color: white;
+	font-size: 18px;	
+}
+.tm-section2{
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.tm-2ndpart{
+	background-color: #3abaac;
+}
+.thirdpart{
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+
+.leftmost{
+	display: inline-block;
+    margin-left: 0px;
+    width: 25%;
+    height: auto;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    position: relative;
+    border-right: 1px solid #d83230;
+    border-left: 1px solid #d83230;
+    text-align: center;
+
+}
+ a{
+	
+	text-decoration: none;
+	color:black;
+}
+.middle1{
+	display: inline-block;
+    width: 24%;
+    height: auto;
+    border: 1px solid white;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    position: relative;
+    border-right: 1px solid #d83230;
+    text-align: center;
+}
+.rightmost{
+	display: inline-block;
+	width: 25%;
+	margin-top: 0px;
+	margin-bottom: 50px;
+	border-right: 1px solid #d83230;
+	text-align: center;
+
+}
+.fourthpart{
+	background-color:#F4F1EA;
+	display: block;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto; 
+}
+.tm-box3{
+	background-color:#F4F1EA;
+	text-align: center;
+	display: inline-block;
+	margin-right: 10px;
+}	 
+.tm-account3{
+	text-decoration: none;
+	color: white;
+	background-color: #3FB0EB;
+	height: 45px;
+	line-height: 45px;
+	width: 100%;
+	margin: 15px 25px 30px;
+}
+.tm-account3 a{
+	text-decoration: none;
+	color: white;
+	font-size: 18px;	
+}
+.fifthpart{
+	width: 75%;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+a:hover{
+	color:#ef6b13; 
+}
+.tm-footer{
+	width: 75%;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 50px;
+}
+.tm-scroll{
+	overflow: auto;
+	background: #fff;
+    width:242px;
+    height: 380px;
+    padding: 17px 17px 0 17px;
+    font-size: 17px;
+    position: relative;
+    display: inline-block;
+    border:1px solid black;
+    
+}
+
+.tm-video img{
+	max-width: 920px;
+	height: 397px;
+	
+	display: inline-block;
+
+}
+.tm-fixed{
+
+	position: fixed;
+	right: 0px;
+	display: block;
+	top:33%;
+}
+.tm-text3 a:hover{
+	background-color: #c43805;
+	color: white;
+}
+.tm-account2 a:hover{
+		background-color: #c43805;
+		color: white;
+}
+.tm-account3 a:hover{
+		background-color: #c43805;
+		color: white;
+}
